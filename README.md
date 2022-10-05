@@ -22,3 +22,7 @@ como nessa imagem
 https://cdn.jsdelivr.net/gh/i9w3b/cdn/img/logo-200px.png
 
 
+exemplo 
+https://cdn.jsdelivr.net/gh/leopoldobr/content-repo@main/chagerPauloGuedes.jpeg
+
+
